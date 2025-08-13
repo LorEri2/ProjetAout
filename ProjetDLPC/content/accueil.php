@@ -1,0 +1,1 @@
+<h2>Bienvenue chez Dupont Entreprise</h2>
